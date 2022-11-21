@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello, and Welcome!
+My name is Chris, and I am a self-taught programmer. I have spent several years learning C#, C++, and (currently) Zig. I have a fondness for optimized and elegant solutions.
+
+I am regularly working to expand my knowledge base outward and upward.
+
 
 <!--
 **CoalNova/CoalNova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
